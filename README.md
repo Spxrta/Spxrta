@@ -1,5 +1,5 @@
 <h1 align="center">Oláa 👋 Sparta aqui! 👨‍💻</h1>
-<h3 align="center">Só estudando.. ✏️</h3>
+<h3 align="left">Só estudando.. ✏️</h3>
 
 
 <h3 align="left">Linguagems e Ferramentas aprendendo 💻</h3>
