@@ -1,4 +1,4 @@
-<h1 align="center">Oláa 👋 Sparta aqui! 👨‍💻</h1>
+<h2 align="left">Oláa 👋 Sparta aqui! 👨‍💻</h2>
 <h3 align="left">Só estudando.. ✏️</h3>
 
 <h3 align="left">Linguagems e Ferramentas aprendendo! 💻</h3>
