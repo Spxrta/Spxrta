@@ -6,4 +6,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=spxrta&show_icons=true&theme=merko" alt="spxrta" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spxrta&show_icons=true&theme=merko" alt="spxrta" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spxrta&show_icons=true&theme=merko" alt="spxrta" 
